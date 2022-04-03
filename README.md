@@ -5,9 +5,7 @@ Moreover, three fusion strategies are proposed to effectively utilize spatial an
 They are direct aggregation, aggregation on feature space, and Hadamard product.
 In terms of network development, an encoder-decoder framework is employed for hyperspectral image classification.
 The encoder is a hierarchical transformer pipeline that can extract long-range context information. 
-Both shallow local features and rich global semantic information are encoded through hierarchical feature expressions. 
 The decoder consists of suitable upsampling, skip connection, and convolution blocks, which fuse multi-scale features efficiently.
-Compared with other state-of-the-art methods, our approach has greater performance in hyperspectral image classification.
 ## USAGE
 This code heavily depends on the [Swin-Transformer](https://github.com/microsoft/Swin-Transformer). 
 ## Preparation
