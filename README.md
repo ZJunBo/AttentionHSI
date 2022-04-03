@@ -14,7 +14,7 @@ This code heavily depends on the [Swin-Transformer](https://github.com/microsoft
 * python 3.8 
 * Pytorch 1.9
 * cuda 11.1 
-* Other necessary environmental configurations refer to A [Swin-Transformer](https://github.com/microsoft/Swin-Transformer)
+* Other necessary environmental configurations refer to [Swin-Transformer](https://github.com/microsoft/Swin-Transformer)
 
 
 ## Data preparation
