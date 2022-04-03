@@ -18,14 +18,8 @@ This code heavily depends on the [Swin-Transformer](https://github.com/microsoft
 
 
 ## Data preparation
-
-We use standard ImageNet dataset, you can download it from http://image-net.org/. We provide the following two ways to
-load data:
-
 - The file structure should look like:
   ```
-  $ xxxx
-  
   ├── Dataset
   │   ├── IndianPines
   │   │   ├── Indian_pines.mat
