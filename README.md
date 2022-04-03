@@ -12,10 +12,10 @@
 We use standard ImageNet dataset, you can download it from http://image-net.org/. We provide the following two ways to
 load data:
 
-- For standard folder dataset, move validation images to labeled sub-folders. The file structure should look like:
-  ```bash
-  $ tree data
-  imagenet
+- The file structure should look like:
+  ```
+  $ xxxx
+  
   ├── train
   │   ├── class1
   │   │   ├── img1.jpeg
