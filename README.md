@@ -20,7 +20,6 @@ The decoder consists of suitable upsampling, skip connection, and convolution bl
   ```
   ├── Dataset
   │   ├── IndianPines
-  │   │   ├── Indian_pines.mat
   │   │   ├── Indian_pines_corrected.mat
   │   │   └── Indian_pines_gt.mat
   │   ├── KSC
