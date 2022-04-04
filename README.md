@@ -34,7 +34,7 @@ In this work, we propose an encoder-decoder network that fuses spatial attention
   ```
 
 ## Training and Testing
-put HSI dataset in ```Datasets``` folder <br>
+put Indian_pines KSC PU dataset in ```Datasets``` folder <br>
 run the ```Demo_IP_Seg.py``` for Indian Pines dataset training and testing<br> 
 
 
