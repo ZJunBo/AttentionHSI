@@ -9,7 +9,7 @@ The decoder consists of suitable upsampling, skip connection, and convolution bl
 
 ## Requirements
 * python 3.8 
-* Pytorch 1.9
+* pytorch 1.9
 * cuda 11.1 
 * cuDNN 8.0.4
 * torchvision 0.10.0
