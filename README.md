@@ -1,5 +1,5 @@
 # Fusing Spatial Attention with Spectral-channel Attention Mechanism for Hyperspectral Image Classification via Encoder-decoder Networks
-In this work, we propose an encoder-decoder network that fuses spatial attention and spectral-channel attention for HSI classification 
+In this work, we propose an encoder-decoder network that fuses spatial attention and spectral-channel attention for HSI classification.
 ## Requirements
 * python 3.8 
 * pytorch 1.9
