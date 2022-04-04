@@ -7,22 +7,16 @@ In terms of network development, an encoder-decoder framework is employed for hy
 The encoder is a hierarchical transformer pipeline that can extract long-range context information. 
 The decoder consists of suitable upsampling, skip connection, and convolution blocks, which fuse multi-scale features efficiently.
 
-## Preparation
+## Requirements
 * python 3.8 
 * Pytorch 1.9
 * cuda 11.1 
 * cuDNN 8.0.4
 * torchvision 0.10.0
-* sklearn 1.0.2
-* numpy 1.22.3
-* spectral 0.22.4
-* matplotlib 3.5.1
-* timm 0.3.2
-* scipy 1.8.0
-
+* sklearn numpy spectral matplotlib timm scipy
 
 ## Data preparation
-- The file structure should look like:
+- The project should be organized as:
   ```
   ├── Dataset
   │   ├── IndianPines
@@ -49,6 +43,6 @@ The decoder consists of suitable upsampling, skip connection, and convolution bl
 
 ## Training and Testing
 put HSI dataset in ```Datasets``` folder <br>
-run the ```Demo_IP.py``` for Indian Pines dataset training and testing<br> 
+run the ```Demo_IP_Seg.py``` for Indian Pines dataset training and testing<br> 
 
 
