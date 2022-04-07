@@ -32,8 +32,8 @@ In this work, we propose an encoder-decoder network that fuses spatial attention
   ```
 
 ## Training and Testing
-put Indian_pines KSC PU dataset in ```Datasets``` folder.   The dataset can be downloaded from the website  [[Remot Sensing Labs]](https://rslab.ut.ac.ir/data) <br>
-run the ```Demo_IP_Seg.py``` for Indian Pines dataset training and testing<br> 
+Put Indian_pines、KSC、PU dataset in ```Datasets``` folder.   The dataset can be downloaded from the website  [[Remot Sensing Labs]](https://rslab.ut.ac.ir/data) <br>
+Run the ```Demo_IP_Seg.py``` for Indian Pines dataset training and testing<br> 
 
 
 
