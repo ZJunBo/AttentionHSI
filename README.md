@@ -28,7 +28,7 @@ In this work, we propose an encoder-decoder network that fuses spatial attention
   ├── Demo_IP_Seg
   ├── Demo_PU_Seg
   ├── Demo_KSC_Seg
-  ├── H_datapy.PY
+  ├── H_datapy.py
   ```
 
 ## Training and Testing
