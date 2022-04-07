@@ -3,7 +3,7 @@ In this work, we propose an encoder-decoder network that fuses spatial attention
 ## Requirements
 * pytorch 
 * timm ==0.3.2
-* sklearn numpy spectral matplotlib scipy  
+* sklearn  spectral matplotlib scipy  
 
 
 ## Data preparation
