@@ -6,7 +6,9 @@ In this work, we propose an encoder-decoder network that fuses spatial attention
 * cuda 11.1 
 * cuDNN 8.0.4
 * torchvision 0.10.0
-* sklearn numpy spectral matplotlib timm scipy
+* timm ==0.3.2
+* sklearn numpy spectral matplotlib scipy  
+
 
 ## Data preparation
 - The project should be organized as:
