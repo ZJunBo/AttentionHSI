@@ -32,7 +32,7 @@ In this work, we propose an encoder-decoder network that fuses spatial attention
   ```
 
 ## Training and Testing
-put Indian_pines KSC PU dataset in ```Datasets``` folder.   The dataset can be downloaded from the website  [[Hyperspectral Remote Sensing Scenes]](http://www.ehu.eus/ccwintco/index.php?title=Hyperspectral_Remote_Sensing_Scenes) <br>
+put Indian_pines KSC PU dataset in ```Datasets``` folder.   The dataset can be downloaded from the website  [[Remot Sensing Labs]](https://rslab.ut.ac.ir/data) <br>
 run the ```Demo_IP_Seg.py``` for Indian Pines dataset training and testing<br> 
 
 
